@@ -2,7 +2,7 @@
 
 > Routeur de paiements transfrontaliers sûr : la route la moins chère quand tout va bien, une fenêtre pour arrêter l'argent quand quelque chose cloche.
 
-Projet présenté au hackathon **Secure Horizons** (ESSEC, 10–11 octobre 2026) sur la Track 1 (Fintech Security), avec un volet IA pour la Track 2 (AI for Security & Secure AI). Le PRD l'appelle de son nom de travail, **L'Aiguilleur**.
+Projet présenté au hackathon **Secure Horizons** (ESSEC, 10–11 octobre 2026) sur la **Track 1** (Fintech Security: Guardians of Value), avec une ouverture possible sur la **Track 3**. Le PRD l'appelle de son nom de travail, **L'Aiguilleur**.
 
 📄 **Document de référence : [`prd-final.md`](./prd-final.md)** (PRD final v3.0, fusion des quatre PRD de l'équipe).
 
